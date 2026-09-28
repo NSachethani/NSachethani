@@ -68,7 +68,9 @@
 
 ### 🤝 Connect with me
 <p>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:nimeshasachethani@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>  
+  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-3b82f6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.com/users/YOUR-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-2563eb?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://YOUR-WORKSPACE.slack.com"><img src="https://img.shields.io/badge/Slack-1d4ed8?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" /></a>
